@@ -1,0 +1,199 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+}
+
+nav {
+     background: olivedrab;
+     height: 80px;
+     width: 100%;
+}
+
+label.logo {
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+nav ul {
+    float: right;
+    margin-right: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0px;
+}
+
+nav ul li a {
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 7px 13px;
+    border-radius: 3px;
+}
+
+
+.activity-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 300px;
+    width: 710px;
+    display: block;
+}
+
+.go-back:hover {
+    text-decoration: underline;
+}
+
+.image-one {
+    margin-top: 50px;
+    margin-left: 250px;
+    height: 400px;
+    width: 800px;
+    box-shadow: 0px 0px 5px;
+}
+
+.paragraph-title {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 16px;
+}
+
+.paragraph-description {
+    font-family: Arial;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.image-two {
+    margin-top: 50px;
+    margin-left: 250px;
+    height: 400px;
+    width: 800px;
+    box-shadow: 0px 0px 5px;
+}
+
+.fastest-industry {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 16px;
+}
+
+.description-two {
+    font-family: Arial;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.image-three {
+    margin-top: 50px;
+    margin-left: 250px;
+    height: 400px;
+    width: 800px;
+    box-shadow: 0px 0px 5px;
+}
+
+.great-income {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 16px;
+}
+
+.description-three {
+    font-family: Arial;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.image-four {
+    margin-top: 50px;
+    margin-left: 250px;
+    height: 400px;
+    width: 800px;
+    box-shadow: 0px 0px 5px;
+}
+
+.why-it {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 16px;
+}
+
+.description-four {
+    font-family: Arial;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.image-five {
+    margin-top: 50px;
+    margin-left: 250px;
+    height: 400px;
+    width: 800px;
+    box-shadow: 0px 0px 5px;
+}
+
+.my-future {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 16px; 
+}
+
+.description-five {
+    font-family: Arial;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
